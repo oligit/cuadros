@@ -1,0 +1,44 @@
+body{
+	width: 100%;
+    /* Safari 5.1+, Chrome 10+ 
+    background: -webkit-linear-gradient(top, #2c4762, white);*/
+	background: -webkit-linear-gradient(top, #2c4762, white);
+	/*background-color: #e6e9ea;*/
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center top;
+	height: 100%;
+	margin: 20px 0px 0px 0px;
+}
+.headerBar {
+	border-top: 1px;
+	margin-right: 10%;
+	margin-left: 10px;
+	float: left;
+	width: 100%;
+	height: 48px;
+	color: black;
+	display: table;
+  	background: url(https://a-v2.sndcdn.com/assets/images/header/header-bg-d50908.png) repeat-x 0 0
+	
+}
+
+.fixed {
+	position: fixed;
+}
+.headerDiv {
+	width: 100%;
+	height: auto;
+	float: left;
+	margin: 10px;
+}
+.hB { /* botones de la barra  */
+	display: table-cell;
+	width: 48px; 
+	text-align: center;
+	vertical-align: center;
+	height: 
+}
+* {
+	font-family: Calibri;
+}
